@@ -28,7 +28,7 @@
         "TemplateFocusedPlaceholder": "#66ff66",
         "TemplatePlaceholder": "#ccffcc",
         "TemplateReadOnlyPlaceholder": "#ffcccc",
-        "TextSelection": "#232323",
+        "TextSelection": "#0000FF",
         "WordWrapMarker": "#262626"
     },
     "metadata": {
